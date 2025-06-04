@@ -16,7 +16,7 @@ print('exmplo 2 - Soma de 3 e 4', soma(3, 4))'''
 'c = lambda cateto1, cateto2: (cateto1 ** 2 + cateto2 ** 2) ** 0.5'
 'print("Valor da hipotenusa:", c(3, 4))'
 
-'hipo = lambda a, b: math.sqrt(a ** 2 + b ** 2)'
+'hipo = lambda a, b: math.sqrt(a ** 2 + b ** 2) '
 
 # filter, map
 
